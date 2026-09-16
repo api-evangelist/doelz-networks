@@ -23,18 +23,16 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/doelz-networks.png
 name: Doelz Networks
-description: 'Doelz Networks Inc. was a data communications networking company headquartered
-  at 9501 Jeronimo Road, Irvine, California. It developed data communication networks
-  designed to be independent of media, speed, attached devices, or protocols, applied
-  across both local area networks (LANs) and wide area networks (WANs), with additional
-  locations in Columbia, Maryland and New Jersey. The company raised roughly $16.9
-  million from investors including Battery Ventures, Accel, J.H. Whitney, Citi Venture
-  Capital International and Brentwood, and was bought out by its management together
-  with a group of European investors in 1988. The company has since been acquired
-  and is no longer operating: enrichment probes in July 2026 found no live corporate
-  domain, no developer portal, no documentation, and no API surface of any kind. This
-  profile is retained as a historical record of a venture-backed networking vendor
-  and is not expected to yield API artifacts.'
+description: 'Doelz Networks Inc. was a data communications networking company headquartered at 9501 Jeronimo
+  Road, Irvine, California. It developed data communication networks designed to be independent of media,
+  speed, attached devices, or protocols, applied across both local area networks (LANs) and wide area
+  networks (WANs), with additional locations in Columbia, Maryland and New Jersey. The company raised
+  roughly $16.9 million from investors including Battery Ventures, Accel, J.H. Whitney, Citi Venture Capital
+  International and Brentwood, and was bought out by its management together with a group of European
+  investors in 1988. The company has since been acquired and is no longer operating: enrichment probes
+  in July 2026 found no live corporate domain, no developer portal, no documentation, and no API surface
+  of any kind. This profile is retained as a historical record of a venture-backed networking vendor and
+  is not expected to yield API artifacts.'
 url: https://raw.githubusercontent.com/api-evangelist/doelz-networks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -44,7 +42,7 @@ x-tier: stub
 x-tier-reason: defunct-no-api-surface
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Networking
@@ -67,5 +65,6 @@ x-enrichment:
   status: nochange
   artifacts_added: 0
   pass: local-v1
-  notes: Defunct/acquired networking hardware vendor; no live domain, portal, docs,
-    or API surface found. No artifacts are derivable.
+  notes: Defunct/acquired networking hardware vendor; no live domain, portal, docs, or API surface found.
+    No artifacts are derivable.
+x-status: defunct
